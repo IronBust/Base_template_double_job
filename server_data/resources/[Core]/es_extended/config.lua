@@ -61,9 +61,9 @@ Config.RemoveHudCommonents = {
 	[17] = false, --SAVING_GAME,
 	[18] = false, --GAME_STREAM
 	[19] = false, --WEAPON_WHEEL
-	[20] = false, --WEAPON_WHEEL_STATS
-	[21] = false, --HUD_COMPONENTS
-	[22] = false, --HUD_WEAPONS
+	[20] = true, --WEAPON_WHEEL_STATS
+	[21] = true, --HUD_COMPONENTS
+	[22] = true, --HUD_WEAPONS
 }
 
 Config.SpawnVehMaxUpgrades = true -- admin vehicles spawn with max vehcle settings
